@@ -1,3 +1,9 @@
+# Full project report
+
+This is the Time Series section that I have been in charge of for the **Data Analysis with R-Python - Final Project**.
+
+You can view the full project report (in Vietnamese) [HERE](https://drive.google.com/file/d/1NZYLd4mMDrIICOmgaYhamUZ9TrqRUiZv/view?usp=drive_link).
+
 # About the dataset
 The goldstock dataset includes daily recorded values of gold prices from 22/01/2014, to 19/01/2024, providing detailed information about the fluctuations in gold prices over that period.
 
